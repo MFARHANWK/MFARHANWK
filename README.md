@@ -1,9 +1,5 @@
 ### Hi there, I'm MUHAMMAD FARHAN WAHYU KAMIL! 👋
 
-An undergraduate student majoring in Computer Science at IPB University and have a keen interest in machine learning.
-
----
-
 ### 🤖 About Me
 
 My journey began in the world of **project management** and **communication**, where I learned to coordinate teams and build effective relationships. This experience taught me the importance of the 'human' side of any project.

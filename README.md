@@ -1,34 +1,23 @@
-### Hi there, I'm MUHAMMAD FARHAN WAHYU KAMIL! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Farhan Wahyu Kamil
+====================================================================================================================================================
 
-### 🤖 About Me
+Computer Science Student at IPB University
+------------------------------------------
 
-My journey began in the world of **project management** and **communication**, where I learned to coordinate teams and build effective relationships. This experience taught me the importance of the 'human' side of any project.
+I'm an undergraduate student majoring in computer science at IPB University. It's my second year in this field, and I'm very passionate about AI and Machine Learning. I became fascinated by how raw numbers could be transformed into insights, and how past patterns could be used to predict the future. I am particularly interested in how ML can be used to understand complex social phenomena and how we can mitigate the biases reflected in our data.
 
-Curiosity then led me to the world of data. I became fascinated by how raw numbers could be transformed into insights, and how past patterns could be used to predict the future. I started diving into Python, Pandas, and eventually **Machine Learning** through platforms like Kaggle.
+* 🌍  I'm based in Batam, Kepulauan Riau, Indonesia
+* ✉️  You can contact me at [mfarhanwk@gmail.com](mailto:mfarhanwk@gmail.com)
+* 🧠  I'm currently learning Pandas, Scikit-Learn, and Pytorch
+* 👥  I'm looking to collaborate on Machine Learning Projects
 
-My goal now is to bridge these two worlds. I don't just want to build efficient models, but also **responsible and interpretable** ones. I am particularly interested in how ML can be used to understand complex social phenomena and how we can mitigate the biases reflected in our data.
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-### 🌱 I’m Currently Focusing On...
+<p align="left"> <a href="https://www.github.com/MFARHANWK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/mfarhanwk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
--   Deepening my understanding of fundamental Machine Learning algorithms.
--   Applying **Data Cleaning** and **Data Preprocessing** techniques in personal projects.
--   Build Machine Learning projects from a real-world case 
-
----
-
-### 💻 Tech Stack & Tools I Use
-
-![My Skills](https://skillicons.dev/icons?i=python,pandas,scikitlearn,jupyter,git,github,vscode&perline=7)
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of a great team.
-
--   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mfarhanwk)
--   **Instagram:** [My Instagram Profile](https://instagram.com/mafarhanwk_)
-
----
+<a href="https://github.com/MFARHANWK" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFARHANWK&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
